@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cow-and-bull/static/css/main.b0ab4d7c.css",
+    "main.js": "/Cow-and-bull/static/js/main.93ad535a.js",
+    "static/js/453.8d4f23f9.chunk.js": "/Cow-and-bull/static/js/453.8d4f23f9.chunk.js",
+    "index.html": "/Cow-and-bull/index.html",
+    "main.b0ab4d7c.css.map": "/Cow-and-bull/static/css/main.b0ab4d7c.css.map",
+    "main.93ad535a.js.map": "/Cow-and-bull/static/js/main.93ad535a.js.map",
+    "453.8d4f23f9.chunk.js.map": "/Cow-and-bull/static/js/453.8d4f23f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0ab4d7c.css",
+    "static/js/main.93ad535a.js"
+  ]
+}
