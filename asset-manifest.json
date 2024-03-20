@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cow-and-bull/static/css/main.b0ab4d7c.css",
-    "main.js": "/Cow-and-bull/static/js/main.ccb5ae3e.js",
+    "main.css": "/Cow-and-bull/static/css/main.1b564e67.css",
+    "main.js": "/Cow-and-bull/static/js/main.a9c1a8c2.js",
     "static/js/453.8d4f23f9.chunk.js": "/Cow-and-bull/static/js/453.8d4f23f9.chunk.js",
     "index.html": "/Cow-and-bull/index.html",
-    "main.b0ab4d7c.css.map": "/Cow-and-bull/static/css/main.b0ab4d7c.css.map",
-    "main.ccb5ae3e.js.map": "/Cow-and-bull/static/js/main.ccb5ae3e.js.map",
+    "main.1b564e67.css.map": "/Cow-and-bull/static/css/main.1b564e67.css.map",
+    "main.a9c1a8c2.js.map": "/Cow-and-bull/static/js/main.a9c1a8c2.js.map",
     "453.8d4f23f9.chunk.js.map": "/Cow-and-bull/static/js/453.8d4f23f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0ab4d7c.css",
-    "static/js/main.ccb5ae3e.js"
+    "static/css/main.1b564e67.css",
+    "static/js/main.a9c1a8c2.js"
   ]
 }
